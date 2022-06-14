@@ -1,0 +1,12 @@
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\bin\Debug\TestParse.exe.config
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\bin\Debug\TestParse.exe
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\bin\Debug\TestParse.pdb
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\bin\Debug\HtmlAgilityPack.dll
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\bin\Debug\HtmlAgilityPack.xml
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\obj\Debug\TestParse.csproj.AssemblyReference.cache
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\obj\Debug\TestParse.csproj.SuggestedBindingRedirects.cache
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\obj\Debug\TestParse.csproj.CoreCompileInputs.cache
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\obj\Debug\TestParse.csproj.CopyComplete
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\obj\Debug\TestParse.exe
+C:\Users\FS\Desktop\Arthur\C#_Projects\TestParse\obj\Debug\TestParse.pdb
